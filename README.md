@@ -26,6 +26,8 @@
 
 [Multi-view Spectral Clustering Network](https://www.ijcai.org/proceedings/2019/0356.pdf), IJCAI 2019
 
+[Generalized Latent Multi-View Subspace Clustering](https://ieeexplore.ieee.org/abstract/document/8502831), TPAMI 2018
+
 [Consistent and Specific Multi-View Subspace Clustering](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16212), AAAI 2018
 
 [Weighted Multi-View Spectral Clustering Based on Spectral Perturbation](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16255), AAAI 2018
