@@ -1,8 +1,15 @@
-# multi-view learning
+------Multi-View Learning------
++ Multi-View Classification
 
-## Areas
+[A Probabilistic Hierarchical Model for Multi-View and Multi-Feature Classification](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16172), AAAI 2018 
 
-### Clustering
+[Vertex-Weighted Hypergraph Learning for Multi-View Object Classification](https://dl.acm.org/citation.cfm?id=3172276), IJCAI 2017
+
+[Semi-supervised Multi-view Correlation Feature Learning with Application to Webpage 
+Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/13925), AAAI 2017
+
+
++Multi-View Clustering
 
 [COMIC: Multi-view Clustering Without Parameter Selection](http://proceedings.mlr.press/v97/peng19a/peng19a.pdf), ICML 2019
 
@@ -56,7 +63,7 @@
 
 [Multiple Clustering Views from Multiple Uncertain Experts](http://proceedings.mlr.press/v70/chang17a/chang17a.pdf), ICML 2017
 
-### Multi-view learning
++ Multi-view learning
 
 [Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised  Feature  Selection](https://aaai.org/ojs/index.php/AAAI/article/view/4443/4321), AAAI 2019
 
@@ -86,7 +93,7 @@
 
 [Multi-View Multi-Instance Learning Based on Joint Sparse Representation and Multi-View Dictionary Learning](https://ieeexplore.ieee.org/document/7855789), TPAMI 2017
 
-### Multi-view Fusion
++Multi-view Fusion
 
 [A Multi-View Fusion Neural Network for Answer Selection](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16852), AAAI 2018
 
@@ -94,11 +101,11 @@
 
 [Towards Robust and Accurate Multi-View and Partially-Occluded Face Alignment](https://doi.org/10.1109/TPAMI.2017.2697958), TPAMI 2018
 
-### Action Recognition
++Action Recognition
 
 [Dividing and Aggregating Network for Multi-view Action Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dongang_Wang_Dividing_and_Aggregating_ECCV_2018_paper.pdf), ECCV 2018
 
-### Graph
++Graph
 
 [Multi-GCN: Graph Convolutional Networks for Multi-View Networks, with Applications to Global Poverty](https://aaai.org/ojs/index.php/AAAI/article/view/3836/3714), AAAI 2019
 
@@ -110,13 +117,13 @@
 
 [Multi-View Multi-Graph Embedding for Brain Network Clustering Analysis](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16156), AAAI 2018
 
-### Outlier Detection
++Outlier Detection
 
 [Partial Multi-View Outlier Detection Based on Collective Learning](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17166), AAAI 2018
 
 [Latent Discriminant Subspace Representations for Multi-View Outlier Detection](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17401), AAAI 2018
 
-### Retrieval
++Retrieval
 
 [Dynamic Multi-View Hashing for Online Image Retrieval](https://eprints.lancs.ac.uk/id/eprint/87896/), IJCAI 2017
 
@@ -126,14 +133,6 @@
 
 [An Information Retrieval Approach for Finding Dependent Subspaces of Multiple Views](https://openreview.net/forum?id=Hk-mgcsgx), ICLR 2017
 
-### Classification
-
-[A Probabilistic Hierarchical Model for Multi-View and Multi-Feature Classification](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16172), AAAI 2018 
-
-[Vertex-Weighted Hypergraph Learning for Multi-View Object Classification](https://dl.acm.org/citation.cfm?id=3172276), IJCAI 2017
-
-[Semi-supervised Multi-view Correlation Feature Learning with Application to Webpage 
-Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/13925), AAAI 2017
 
 ### 3D model
 
