@@ -1,5 +1,6 @@
 ------Multi-View Learning------
 + Multi-View Classification
+
 Changqing Zhang etc, CPM-Nets: Cross Partial Multi-View Networks, NeurIPS 2019
 
 [A Probabilistic Hierarchical Model for Multi-View and Multi-Feature Classification](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16172), AAAI 2018 
