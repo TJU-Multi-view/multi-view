@@ -1,4 +1,4 @@
-# multi-view
+# multi-view learning
 
 ## Areas
 
